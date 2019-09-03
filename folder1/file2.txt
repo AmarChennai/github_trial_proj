@@ -1,0 +1,4 @@
+Line 1 : File Name : folder1\file2.txt
+Line 2 : aaaaaaaaaaa aaaaaaaaaaaaaa
+Line 3 : bbbbbbb bbbbbbbb bbbbbbbbbbb
+Line 4 : c c c c c c c c c c
